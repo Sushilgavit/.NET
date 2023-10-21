@@ -1,3 +1,163 @@
-1) create class Calculator with two method add and product . create object and call method .
+1) create a class Calculator with two methods add and product. create object and call method.
+
+  /*create class Calculator with two method add and product . 
+    create object and call method .*/
+using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Text;
+using System.Threading.Tasks;
+
+namespace ConsoleApp1
+{
+    internal class Program
+
+
+    {
+
+        class Calculator
+        {
+            public int add (int a , int b) { return a + b;           
+            }
+            public int product (int a , int b) {  return a * b; }
+        }
+        static void Main(string[] args)
+        {
+          Calculator calculator = new Calculator();
+            Console.WriteLine("ENTER TWO NO TO ADD");
+            int A=Convert.ToInt32(Console.ReadLine());
+            int B=Convert.ToInt32(Console.ReadLine());
+            int Add=calculator.add(A, B);
+            Console.WriteLine(Add);
+            Console.WriteLine("ENTER TWO NO TO PRODUCT");
+            int C=Convert.ToInt32(Console.ReadLine());
+            int D=Convert.ToInt32(Console.ReadLine());
+             int product=calculator.product(A, B);
+        }
+    }
+}
+
+------------------------------------------------------------------------------------------
 2) Create class library with method fact() which will return factorial of a number Use it in console applictaion
+
+*CLass library
+
+using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Text;
+using System.Threading.Tasks;
+
+namespace ClassLibrary1
+{
+   
+    public class Class1
+    {
+         
+        public static long facto(int n)
+        {
+            if (n == 0 || n== 1)
+                return 1;
+            else
+                return n * facto(n - 1);
+        }
+
+
+    }
+
+}
+
+*Class console
+
+using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Text;
+using System.Threading.Tasks;
+using ClassLibrary1;
+namespace ConsoleApp2
+{
+    internal class Program
+    {
+        static void Main(string[] args)
+        {
+            
+
+            Console.WriteLine(Class1.facto(5));
+          
+        }
+    }
+}
+
+-------------------------------------------------------------------------------------------------------------------------------------------------
+
 3) Create a class student in namespace DAC and namespace DBDA write method add in both class . in entry point call both method
+
+*class DBDA
+
+using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Text;
+using System.Threading.Tasks;
+
+namespace DBDA
+
+{
+    public class DBDA
+    {
+        public int add(int a , int b)
+        {
+            return a + b;
+        }
+    }
+}
+
+
+*class DAC
+
+using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Text;
+using System.Threading.Tasks;
+
+namespace DAC
+
+{
+    public class DAC
+    {
+        public int add(int x , int y)
+        {
+            return x + y;
+        }
+
+    }
+}
+
+*Program
+
+using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Text;
+using System.Threading.Tasks;
+
+namespace ConsoleApp3
+{
+    internal class Program
+    {
+        static void Main(string[] args)
+        {
+            DBDA.DBDA ref1 = new DBDA.DBDA();
+            DAC.DAC ref2= new DAC.DAC();
+
+            Console.WriteLine(ref1.add(69, 96));
+            Console.WriteLine(ref2.add(69, 96));
+        }
+    }
+}
+
+
+
+
