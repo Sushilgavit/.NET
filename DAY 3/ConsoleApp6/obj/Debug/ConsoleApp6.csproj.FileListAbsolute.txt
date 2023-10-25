@@ -1,0 +1,7 @@
+C:\VITA\C#\Assingment\ConsoleApp6\obj\Debug\ConsoleApp6.csproj.AssemblyReference.cache
+C:\VITA\C#\Assingment\ConsoleApp6\obj\Debug\ConsoleApp6.csproj.CoreCompileInputs.cache
+C:\VITA\C#\Assingment\ConsoleApp6\bin\Debug\ConsoleApp6.exe.config
+C:\VITA\C#\Assingment\ConsoleApp6\bin\Debug\ConsoleApp6.exe
+C:\VITA\C#\Assingment\ConsoleApp6\bin\Debug\ConsoleApp6.pdb
+C:\VITA\C#\Assingment\ConsoleApp6\obj\Debug\ConsoleApp6.exe
+C:\VITA\C#\Assingment\ConsoleApp6\obj\Debug\ConsoleApp6.pdb
