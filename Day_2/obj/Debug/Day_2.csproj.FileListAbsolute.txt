@@ -1,0 +1,7 @@
+C:\VITA\Assingment\temp\Day_2\bin\Debug\Day_2.exe.config
+C:\VITA\Assingment\temp\Day_2\bin\Debug\Day_2.exe
+C:\VITA\Assingment\temp\Day_2\bin\Debug\Day_2.pdb
+C:\VITA\Assingment\temp\Day_2\obj\Debug\Day_2.csproj.AssemblyReference.cache
+C:\VITA\Assingment\temp\Day_2\obj\Debug\Day_2.csproj.CoreCompileInputs.cache
+C:\VITA\Assingment\temp\Day_2\obj\Debug\Day_2.exe
+C:\VITA\Assingment\temp\Day_2\obj\Debug\Day_2.pdb
