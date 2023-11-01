@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v7.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v7.0": {
+      "multicast_deligate/1.0.0": {
+        "runtime": {
+          "multicast_deligate.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "multicast_deligate/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

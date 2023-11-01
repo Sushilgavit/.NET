@@ -1,0 +1,14 @@
+C:\VITA\C#\Assingment\multicast_deligate\obj\Debug\net7.0\multicast_deligate.GeneratedMSBuildEditorConfig.editorconfig
+C:\VITA\C#\Assingment\multicast_deligate\obj\Debug\net7.0\multicast_deligate.AssemblyInfoInputs.cache
+C:\VITA\C#\Assingment\multicast_deligate\obj\Debug\net7.0\multicast_deligate.AssemblyInfo.cs
+C:\VITA\C#\Assingment\multicast_deligate\obj\Debug\net7.0\multicast_deligate.csproj.CoreCompileInputs.cache
+C:\VITA\C#\Assingment\multicast_deligate\bin\Debug\net7.0\multicast_deligate.exe
+C:\VITA\C#\Assingment\multicast_deligate\bin\Debug\net7.0\multicast_deligate.deps.json
+C:\VITA\C#\Assingment\multicast_deligate\bin\Debug\net7.0\multicast_deligate.runtimeconfig.json
+C:\VITA\C#\Assingment\multicast_deligate\bin\Debug\net7.0\multicast_deligate.dll
+C:\VITA\C#\Assingment\multicast_deligate\bin\Debug\net7.0\multicast_deligate.pdb
+C:\VITA\C#\Assingment\multicast_deligate\obj\Debug\net7.0\multicast_deligate.dll
+C:\VITA\C#\Assingment\multicast_deligate\obj\Debug\net7.0\refint\multicast_deligate.dll
+C:\VITA\C#\Assingment\multicast_deligate\obj\Debug\net7.0\multicast_deligate.pdb
+C:\VITA\C#\Assingment\multicast_deligate\obj\Debug\net7.0\multicast_deligate.genruntimeconfig.cache
+C:\VITA\C#\Assingment\multicast_deligate\obj\Debug\net7.0\ref\multicast_deligate.dll
