@@ -1,0 +1,14 @@
+C:\VITA\Assingment\temp\Bank_of_baroda\obj\Debug\net7.0\Bank_of_baroda.GeneratedMSBuildEditorConfig.editorconfig
+C:\VITA\Assingment\temp\Bank_of_baroda\obj\Debug\net7.0\Bank_of_baroda.AssemblyInfoInputs.cache
+C:\VITA\Assingment\temp\Bank_of_baroda\obj\Debug\net7.0\Bank_of_baroda.AssemblyInfo.cs
+C:\VITA\Assingment\temp\Bank_of_baroda\obj\Debug\net7.0\Bank_of_baroda.csproj.CoreCompileInputs.cache
+C:\VITA\Assingment\temp\Bank_of_baroda\bin\Debug\net7.0\Bank_of_baroda.exe
+C:\VITA\Assingment\temp\Bank_of_baroda\bin\Debug\net7.0\Bank_of_baroda.deps.json
+C:\VITA\Assingment\temp\Bank_of_baroda\bin\Debug\net7.0\Bank_of_baroda.runtimeconfig.json
+C:\VITA\Assingment\temp\Bank_of_baroda\bin\Debug\net7.0\Bank_of_baroda.dll
+C:\VITA\Assingment\temp\Bank_of_baroda\bin\Debug\net7.0\Bank_of_baroda.pdb
+C:\VITA\Assingment\temp\Bank_of_baroda\obj\Debug\net7.0\Bank_of_baroda.dll
+C:\VITA\Assingment\temp\Bank_of_baroda\obj\Debug\net7.0\refint\Bank_of_baroda.dll
+C:\VITA\Assingment\temp\Bank_of_baroda\obj\Debug\net7.0\Bank_of_baroda.pdb
+C:\VITA\Assingment\temp\Bank_of_baroda\obj\Debug\net7.0\Bank_of_baroda.genruntimeconfig.cache
+C:\VITA\Assingment\temp\Bank_of_baroda\obj\Debug\net7.0\ref\Bank_of_baroda.dll
