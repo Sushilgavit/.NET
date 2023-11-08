@@ -1,7 +1,0 @@
-C:\VITA\C#\Assingment\ConsoleApp5\bin\Debug\ConsoleApp5.exe.config
-C:\VITA\C#\Assingment\ConsoleApp5\bin\Debug\ConsoleApp5.exe
-C:\VITA\C#\Assingment\ConsoleApp5\bin\Debug\ConsoleApp5.pdb
-C:\VITA\C#\Assingment\ConsoleApp5\obj\Debug\ConsoleApp5.csproj.AssemblyReference.cache
-C:\VITA\C#\Assingment\ConsoleApp5\obj\Debug\ConsoleApp5.csproj.CoreCompileInputs.cache
-C:\VITA\C#\Assingment\ConsoleApp5\obj\Debug\ConsoleApp5.exe
-C:\VITA\C#\Assingment\ConsoleApp5\obj\Debug\ConsoleApp5.pdb
