@@ -1,0 +1,14 @@
+C:\VITA\Assingment\temp\HR_in_meomory_curd\bin\Debug\net7.0\HR_in_meomory_curd.exe
+C:\VITA\Assingment\temp\HR_in_meomory_curd\bin\Debug\net7.0\HR_in_meomory_curd.deps.json
+C:\VITA\Assingment\temp\HR_in_meomory_curd\bin\Debug\net7.0\HR_in_meomory_curd.runtimeconfig.json
+C:\VITA\Assingment\temp\HR_in_meomory_curd\bin\Debug\net7.0\HR_in_meomory_curd.dll
+C:\VITA\Assingment\temp\HR_in_meomory_curd\bin\Debug\net7.0\HR_in_meomory_curd.pdb
+C:\VITA\Assingment\temp\HR_in_meomory_curd\obj\Debug\net7.0\HR_in_meomory_curd.GeneratedMSBuildEditorConfig.editorconfig
+C:\VITA\Assingment\temp\HR_in_meomory_curd\obj\Debug\net7.0\HR_in_meomory_curd.AssemblyInfoInputs.cache
+C:\VITA\Assingment\temp\HR_in_meomory_curd\obj\Debug\net7.0\HR_in_meomory_curd.AssemblyInfo.cs
+C:\VITA\Assingment\temp\HR_in_meomory_curd\obj\Debug\net7.0\HR_in_meomory_curd.csproj.CoreCompileInputs.cache
+C:\VITA\Assingment\temp\HR_in_meomory_curd\obj\Debug\net7.0\HR_in_meomory_curd.dll
+C:\VITA\Assingment\temp\HR_in_meomory_curd\obj\Debug\net7.0\refint\HR_in_meomory_curd.dll
+C:\VITA\Assingment\temp\HR_in_meomory_curd\obj\Debug\net7.0\HR_in_meomory_curd.pdb
+C:\VITA\Assingment\temp\HR_in_meomory_curd\obj\Debug\net7.0\HR_in_meomory_curd.genruntimeconfig.cache
+C:\VITA\Assingment\temp\HR_in_meomory_curd\obj\Debug\net7.0\ref\HR_in_meomory_curd.dll
