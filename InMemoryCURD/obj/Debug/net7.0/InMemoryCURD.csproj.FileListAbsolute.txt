@@ -1,0 +1,15 @@
+C:\VITA\Assingment\temp\InMemoryCURD\bin\Debug\net7.0\InMemoryCURD.exe
+C:\VITA\Assingment\temp\InMemoryCURD\bin\Debug\net7.0\InMemoryCURD.deps.json
+C:\VITA\Assingment\temp\InMemoryCURD\bin\Debug\net7.0\InMemoryCURD.runtimeconfig.json
+C:\VITA\Assingment\temp\InMemoryCURD\bin\Debug\net7.0\InMemoryCURD.dll
+C:\VITA\Assingment\temp\InMemoryCURD\bin\Debug\net7.0\InMemoryCURD.pdb
+C:\VITA\Assingment\temp\InMemoryCURD\obj\Debug\net7.0\InMemoryCURD.GeneratedMSBuildEditorConfig.editorconfig
+C:\VITA\Assingment\temp\InMemoryCURD\obj\Debug\net7.0\InMemoryCURD.AssemblyInfoInputs.cache
+C:\VITA\Assingment\temp\InMemoryCURD\obj\Debug\net7.0\InMemoryCURD.AssemblyInfo.cs
+C:\VITA\Assingment\temp\InMemoryCURD\obj\Debug\net7.0\InMemoryCURD.csproj.CoreCompileInputs.cache
+C:\VITA\Assingment\temp\InMemoryCURD\obj\Debug\net7.0\InMemoryCURD.sourcelink.json
+C:\VITA\Assingment\temp\InMemoryCURD\obj\Debug\net7.0\InMemoryCURD.dll
+C:\VITA\Assingment\temp\InMemoryCURD\obj\Debug\net7.0\refint\InMemoryCURD.dll
+C:\VITA\Assingment\temp\InMemoryCURD\obj\Debug\net7.0\InMemoryCURD.pdb
+C:\VITA\Assingment\temp\InMemoryCURD\obj\Debug\net7.0\InMemoryCURD.genruntimeconfig.cache
+C:\VITA\Assingment\temp\InMemoryCURD\obj\Debug\net7.0\ref\InMemoryCURD.dll
